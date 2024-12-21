@@ -356,3 +356,5 @@ dmypy.json
 cython_debug/
 /LABO04/output.txt
 /LABO04/faulty_input.txt
+/LABO06/PCR_primers.txt
+/LABO06/primer_analysis.csv
